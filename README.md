@@ -17,30 +17,30 @@ The e-commerce website is designed to provide a smooth user experience for onlin
 
 # Features
 # User Features
--User registration and login
--Browse and search for products
--Add and remove products from the cart
--Apply discounts and promotional codes
--Secure checkout using various payment methods (PayPal, Stripe, etc.)
--Order history and tracking
--Responsive design for desktop, tablet, and mobile
+- User registration and login
+- Browse and search for products
+- Add and remove products from the cart
+- Apply discounts and promotional codes
+- Secure checkout using various payment methods (PayPal, Stripe, etc.)
+- Order history and tracking
+- Responsive design for desktop, tablet, and mobile
 
-#Admin Features
--Add, edit, and delete products
--Manage product categories
--View and process customer orders
--Manage stock levels and inventory
--View sales reports and analytics
+# Admin Features
+- Add, edit, and delete products
+- Manage product categories
+- View and process customer orders
+- Manage stock levels and inventory
+- View sales reports and analytics
 
-#Tech Stack
--Frontend: HTML, CSS, JavaScript, Bootstrap
--Backend: Python, Django (version 3.10)
--Database: PostgreSQL 
--Payment Gateway: PayPal
+# Tech Stack
+- Frontend: HTML, CSS, JavaScript, Bootstrap
+- Backend: Python, Django (version 3.10)
+- Database: PostgreSQL 
+- Payment Gateway: PayPal
 
-#Version Control: Git, GitHub
+# Version Control: Git, GitHub
 
-Prerequisites
+#Prerequisites
 Python 3.10 or higher
-Django 3.x or higher
+Django 3.7 or higher
 PostgreSQL or MySQL
